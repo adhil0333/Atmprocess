@@ -1,0 +1,26 @@
+# Compiled Java files
+*.class
+
+# Compiled package
+*.jar
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp
+
+# Executables
+*.exe
+
+# Build directories
+build/
+dist/
+out/
